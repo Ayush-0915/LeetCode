@@ -63,8 +63,9 @@ Each problem folder contains:
 | Difficulty | Solved |
 |------------|---------|
 | 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
+| 📌 Total | 2 |
 
 > This table will be updated as I solve more problems.
 
