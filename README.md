@@ -107,6 +107,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-0915/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ayush-0915/LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,4 +117,12 @@ Each problem folder contains:
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayush-0915/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayush-0915/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush-0915/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush-0915/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
