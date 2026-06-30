@@ -121,8 +121,17 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush-0915/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Ayush-0915/LeetCode/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush-0915/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ayush-0915/LeetCode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ayush-0915/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
